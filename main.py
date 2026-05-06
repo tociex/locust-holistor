@@ -1,4 +1,4 @@
-# locustfile.py — FINAL VERSION (sesuai flow Java Selenium)
+# locustfile.py — FINAL VERSION
 from gevent import monkey
 monkey.patch_all()
 
